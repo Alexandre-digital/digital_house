@@ -1,0 +1,21 @@
+ body{
+
+    font-family: Arial;
+    background-position: top;
+
+
+
+ }
+
+ p{
+font-size: 20px;
+font-weight: bold;
+background-color: palegoldenrod;
+
+ }
+
+ h1{
+
+    text-transform: uppercase;
+    color: crimson;
+ }
