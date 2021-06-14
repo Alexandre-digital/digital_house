@@ -1,9 +1,55 @@
+ 
+
+ 
+ 
+header{
+
+
+   background-color: black;
+   height: 100px;
+}
+
+.style{
+   position: relative;
+   
+}
+.musical{
+   display: flex;
+}
+
+
+.trompetista{
+   padding: 7px 45px;
+   background-color: burlywood;
+}
+
+.tubista{ 
+   padding: 7px 45px;
+   background-color: lightskyblue;
+
+}
+
+.clarinetista{
+   padding: 7px 45px;
+   background-color: darkkhaki;
+}
+
+.pratista{
+   padding: 7px 45px;
+   background-color: lightpink;
+
+}
+
+
+ }
+ 
  body{
 
-    font-family: Arial;
-    background-position: top;
+   .musica{
 
-
+      font-size: 30px;
+   }
+    
 
  }
 
@@ -18,4 +64,14 @@ background-color: palegoldenrod;
 
     text-transform: uppercase;
     color: crimson;
+
+    
+    }
+    
+    
+    
  }
+
+ 
+
+ 
